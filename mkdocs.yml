@@ -4,3 +4,10 @@ theme:
   name: material
   palette:
     primary: indigo
+
+
+extra:
+  analytics:
+    provider: google
+    property: G-HF1MY35ZGQ
+
